@@ -2,3 +2,11 @@ selenium==4.41.0
 requests==2.33.1
 webdriver-manager==4.0.2
 PyMuPDF==1.27.2.2
+langchain_text_splitters
+langchain_huggingface
+langchain_community
+langchain_core
+langchain_google_genai
+dotenv
+sentence-transformers
+faiss-cpu
