@@ -1,4 +1,4 @@
-Use the virtual environment located within this directory to run the provided scripts.
+Use a virtual environment to run the provided scripts.
 
 Create a virtual environment with `python -m venv .venv`.
 
